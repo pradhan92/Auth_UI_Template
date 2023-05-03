@@ -1,16 +1,7 @@
-# front_ui
+# front_ui Flutter template.
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Simulator Screenshot - iPhone 14 Pro - 2023-05-03 at 12 20 20](https://user-images.githubusercontent.com/113663776/235827127-d0519837-85b7-4fb1-bd6e-89a8cf63d39b.png)
+![Simulator Screenshot - iPhone 14 Pro - 2023-05-03 at 12 20 27](https://user-images.githubusercontent.com/113663776/235827131-e6cb8aea-caa7-44c6-8913-b77e7ad8fcb5.png)
+![Simulator Screenshot - iPhone 14 Pro - 2023-05-03 at 12 20 40](https://user-images.githubusercontent.com/113663776/235827135-a144435b-0dde-4eb6-a3f8-88b669d19d2a.png)
+![Simulator Screenshot - iPhone 14 Pro - 2023-05-03 at 12 20 49](https://user-images.githubusercontent.com/113663776/235827138-0fda12be-769f-4653-ba87-941d8bf2b6d7.png)
